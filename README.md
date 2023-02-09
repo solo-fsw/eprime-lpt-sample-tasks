@@ -1,6 +1,6 @@
 # Sending markers with E-Prime to LPT port
 
-The sample files can be downloaded [here](https://downgit.github.io/#/home?url=https://github.com/solo-fsw/eprime-lpt-sample-tasks) (download starts immediately with DownGit). The sample files include a sample in which markers are sent through Task Events, this is not explained below.
+The sample files can be downloaded [here](https://github.com/solo-fsw/eprime-lpt-sample-tasks/archive/refs/heads/main.zip) (download starts immediately). The sample files include a sample in which markers are sent through Task Events, this is not explained below.
 
 Markers can be sent from E-Prime to the LPT port in InLines. There are two general ways of sending markers. One way is to use the WritePort command:
 
