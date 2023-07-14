@@ -86,4 +86,4 @@ sleep 100
 WritePort LPTAddress, 0
 ```
 
-**Make sure to not run your task in windowed mode.** Some issues have been encountered when sending markers with E-Prime in windowed mode (some markers would not arrive).
+**Make sure to not run your task in windowed mode.** Some issues have been encountered when sending markers with E-Prime in windowed mode (some markers may not arrive).
